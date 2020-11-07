@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">COVID Symptom Tracker</string>
+    <string name="name">Name</string>
+    <string name="symptom_tracker">Symptom Tracker</string>
 </resources>

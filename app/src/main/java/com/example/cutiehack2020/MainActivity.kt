@@ -1,4 +1,4 @@
-package com.example.cutiehack2020
+package com.example.CutieHack2020
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
