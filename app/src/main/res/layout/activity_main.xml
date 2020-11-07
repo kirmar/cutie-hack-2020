@@ -15,4 +15,11 @@
         android:text="@string/symptom_tracker"
         tools:layout_editor_absoluteX="149dp"
         tools:layout_editor_absoluteY="43dp" />
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="196dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
