@@ -12,8 +12,6 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="_1_do_you_have_any_symptoms_that_possibly_indicate_signs_of_covid_fever_cough_chills_fatigue_etc">1. Do you have any symptoms that possibly indicate signs of COVID? (fever, cough, chills, fatigue, etc.)</string>
-    <string name="yes_no">(Yes / No)</string>
     <string name="_2_have_you_been_in_contact_with_anyone_who_has_been_in_contact_with_covid">2. Have you been in contact with anyone who has been in contact with COVID?</string>
-    <string name="yes_no">(Yes / No)</string>
     <string name="return_to_homepage">Return to homepage</string>
 </resources>
