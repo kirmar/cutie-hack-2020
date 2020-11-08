@@ -39,9 +39,6 @@
         android:layout_height="46dp"
         android:layout_marginStart="10dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginTop="18dp"
-        android:layout_marginEnd="2dp"
-        android:layout_marginRight="2dp"
         android:fontFamily="sans-serif-smallcaps"
         android:lineSpacingExtra="8sp"
         android:text="@string/record_any_symptoms_you_may_have_or_how_you_re_feeling_throughout_the_day_down_below"
@@ -50,17 +47,13 @@
         android:textSize="16sp"
         android:textStyle="bold"
         android:typeface="normal"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
-    =======
         android:layout_marginTop="150dp"
         android:layout_marginEnd="31dp"
         android:layout_marginRight="31dp"
         android:layout_marginBottom="197dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
->>>>>>> 1a43ac9fc5483baf84b573f381b5e5ac6c25eccf
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 </androidx.constraintlayout.widget.ConstraintLayout>
